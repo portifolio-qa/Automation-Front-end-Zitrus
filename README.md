@@ -32,7 +32,7 @@ O projeto de teste apresenta as seguintes tecnologias:
 
 # Estrutura do Projeto:
 
-**!(image/README/icon_folder.png)Automation-Front-end-Zitrus:** Pasta principal do projeto
+!(./image/README/icon_folder.png)Automation-Front-end-Zitrus: Pasta principal do projeto
 
     ![1665697733755](image/README/1665697733755.png)**cypress:** Pasta do framework Cypress
 
