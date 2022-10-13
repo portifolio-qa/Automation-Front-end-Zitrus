@@ -32,25 +32,25 @@ O projeto de teste apresenta as seguintes tecnologias:
 
 # Estrutura do Projeto:
 
-![1665612157638](https://file+.vscode-resource.vscode-cdn.net/d%3A/D-www/Automation-Front-end-Zitrus/image/README/1665612157638.png) **Automation-Front-end-Zitrus:** Pasta principal do projeto
+![1665612157638](https://file+.vscode-resource.vscode-cdn.net/d%3A/D-www/Automation-Front-end-Zitrus/image/README/1665612157638.png)**Automation-Front-end-Zitrus:** Pasta principal do projeto
 
-    ![1665612157638](https://file+.vscode-resource.vscode-cdn.net/d%3A/D-www/Automation-Front-end-Zitrus/image/README/1665612157638.png) **cypress:** Pasta do framework Cypress
+    ![1665612157638](https://file+.vscode-resource.vscode-cdn.net/d%3A/D-www/Automation-Front-end-Zitrus/image/README/1665612157638.png)**cypress:** Pasta do framework Cypress
 
-   *![1665612157638](image/README/1665612157638.png) **e2e***: Arquivos de teste
+   *![1665612157638](image/README/1665612157638.png)**e2e***: Arquivos de teste
 
-    ![1665612157638](https://file+.vscode-resource.vscode-cdn.net/d%3A/D-www/Automation-Front-end-Zitrus/image/README/1665612157638.png) **features**: funcionalidades do projeto
+    ![1665612157638](https://file+.vscode-resource.vscode-cdn.net/d%3A/D-www/Automation-Front-end-Zitrus/image/README/1665612157638.png)**features**: funcionalidades do projeto
 
-    ![1665612157638](https://file+.vscode-resource.vscode-cdn.net/d%3A/D-www/Automation-Front-end-Zitrus/image/README/1665612157638.png) **step_definitions**:
+    ![1665612157638](https://file+.vscode-resource.vscode-cdn.net/d%3A/D-www/Automation-Front-end-Zitrus/image/README/1665612157638.png)**step_definitions**:
 
-    ![1665610096653](image/README/1665610096653.png) **Fixtures:** Arquivos estáticos que seram consumidos pelos teste
+    ![1665610096653](image/README/1665610096653.png)**Fixtures:** Arquivos estáticos que seram consumidos pelos teste
 
-    ![1665610096653](https://file+.vscode-resource.vscode-cdn.net/d%3A/D-www/Automation-Front-end-Zitrus/image/README/1665610096653.png) **Pages:** Padrão page objects
+    ![1665610096653](https://file+.vscode-resource.vscode-cdn.net/d%3A/D-www/Automation-Front-end-Zitrus/image/README/1665610096653.png)**Pages:** Padrão page objects
 
-    ![1665610096653](https://file+.vscode-resource.vscode-cdn.net/d%3A/D-www/Automation-Front-end-Zitrus/image/README/1665610096653.png) **screenshots:** Evidências (prints) dos testes que falharam
+    ![1665610096653](https://file+.vscode-resource.vscode-cdn.net/d%3A/D-www/Automation-Front-end-Zitrus/image/README/1665610096653.png)**screenshots:** Evidências (prints) dos testes que falharam
 
-    ![1665610096653](image/README/1665610096653.png) **Suport:** Pasta default do cypress para comandos e configurações
+    ![1665610096653](image/README/1665610096653.png)**Suport:** Pasta default do cypress para comandos e configurações
 
-    ![1665610096653](https://file+.vscode-resource.vscode-cdn.net/d%3A/D-www/Automation-Front-end-Zitrus/image/README/1665610096653.png) **videos:** Evidências dos testes em videos dos testes
+    ![1665610096653](https://file+.vscode-resource.vscode-cdn.net/d%3A/D-www/Automation-Front-end-Zitrus/image/README/1665610096653.png)**videos:** Evidências dos testes em videos dos testes
 
     -![1665610182954](image/README/1665610182954.png) Arquivo cypress.json:
 
@@ -58,7 +58,7 @@ O projeto de teste apresenta as seguintes tecnologias:
 
     -![1665610182954](image/README/1665610182954.png) Arquivo e2e: Primeiro arquivo carregado do cypress, tudo que precisa antes rodar os testes
 
-    ![1665610096653](https://file+.vscode-resource.vscode-cdn.net/d%3A/D-www/Automation-Front-end-Zitrus/image/README/1665610096653.png) **videos:** Evidências dos testes em vídeo
+    ![1665610096653](https://file+.vscode-resource.vscode-cdn.net/d%3A/D-www/Automation-Front-end-Zitrus/image/README/1665610096653.png)**videos:** Evidências dos testes em vídeo
 
 -![1665610182954](image/README/1665610182954.png) **cypress-cucumber-preprocessorrc.json:** Biblioteca Javascript de BDD Cucumber
 
