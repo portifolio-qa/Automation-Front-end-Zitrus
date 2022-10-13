@@ -32,45 +32,43 @@ O projeto de teste apresenta as seguintes tecnologias:
 
 # Estrutura do Projeto:
 
-<img src="image/README/icon_folder.png"/>Automation-Front-end-Zitrus: Pasta principal do projeto
+<img src="image/README/icon_folder.png"/>**Automation-Front-end-Zitrus:** Pasta principal do projeto
 
-    ![1665697733755](image/README/1665697733755.png)**cypress:** Pasta do framework Cypress
+    <img src="image/README/icon_folder.png"/>cypress:Pasta do framework Cypress
 
-   ![1665697733755](image/README/1665697733755.png)***e2e***: Arquivos de teste
+  <img src="image/README/icon_folder.png"/>***e2e***: Arquivos de teste
 
-    ![1665697733755](image/README/1665697733755.png)**features**: funcionalidades do projeto
+   <img src="image/README/icon_folder.png"/>**features**: funcionalidades do projeto
 
-    ![1665697733755](image/README/1665697733755.png)**step_definitions**:
+    <img src="image/README/icon_folder.png"/>**step_definitions**:
 
-    ![1665697733755](image/README/1665697733755.png)**Fixtures:** Arquivos estáticos que seram consumidos pelos teste
+    <img src="image/README/icon_folder.png"/>**Fixtures:** Arquivos estáticos que seram consumidos pelos teste
 
-    ![1665697733755](image/README/1665697733755.png)**Pages:** Padrão page objects
+    <img src="image/README/icon_folder.png"/>**Pages:** Padrão page objects
 
-    ![1665697733755](image/README/1665697733755.png)**screenshots:** Evidências (prints) dos testes que falharam
+    <img src="image/README/icon_folder.png"/>**screenshots:** Evidências (prints) dos testes que falharam
 
-    ![1665697733755](image/README/1665697733755.png)**Suport:** Pasta default do cypress para comandos e configurações
+    <img src="image/README/icon_folder.png"/>**Suport:** Pasta default do cypress para comandos e configurações
 
-    ![1665697733755](image/README/1665697733755.png)**videos:** Evidências dos testes em videos dos testes
+    <img src="image/README/icon_folder.png"/>**videos:** Evidências dos testes em videos dos testes
 
-    -![1665697796815](image/README/1665697796815.png)Arquivo cypress.json:
+    <img src="image/README/javascript_icon_.png"/>Arquivo cypress.json:
 
-    -![1665697796815](image/README/1665697796815.png)Arquivo[commandjs](https://docs.cypress.io/api/table-of-contents "Doc Comandos Cypress"): Comandos do cypress
+    <img src="image/README/javascript_icon_.png"/>Arquivo[commandjs](https://docs.cypress.io/api/table-of-contents "Doc Comandos Cypress"): Comandos do cypress
 
-    -![1665697796815](image/README/1665697796815.png)Arquivo e2e: Primeiro arquivo carregado do cypress, tudo que precisa antes rodar os testes
+    <img src="image/README/javascript_icon_.png"/>Arquivo e2e: Primeiro arquivo carregado do cypress, tudo que precisa antes rodar os testes
+   
+<img src="image/README/javascript_icon_.png"/>**cypress-cucumber-preprocessorrc.json:** Biblioteca Javascript de BDD Cucumber
 
-    ![1665697733755](image/README/1665697733755.png)**videos:** Evidências dos testes em vídeo
+<img src="image/README/git_icon_.png"/>**gitignore:** Arquivos que serão ignorados ao realizar os commits
 
--![1665697796815](image/README/1665697796815.png)**cypress-cucumber-preprocessorrc.json:** Biblioteca Javascript de BDD Cucumber
+<img src="image/README/javascript_icon_.png"/>**cucumber-html-report.js:** Gera relatório dos testes
 
--![1665697841938](image/README/1665697841938.png)**gitignore:** Arquivos que serão ignorados ao realizar os commits
+<img src="image/README/javascript_icon_.png"/>**cypress.config.js:** Único arquivo que não roda dentro do browser, roda no nodejs (o que o browser não consegue rodar, roda aqui). Exemplo: Conexão banco dados.
 
--![1665697796815](image/README/1665697796815.png)**cucumber-html-report.js:** Gera relatório dos testes
+<img src="image/README/javascript_icon_.png"/>**pakage.json:** Informações do projeto.
 
--![1665697796815](image/README/1665697796815.png)**cypress.config.js:** Único arquivo que não roda dentro do browser, roda no nodejs (o que o browser não consegue rodar, roda aqui). Exemplo: Conexão banco dados.
-
--![1665697796815](image/README/1665697796815.png)**pakage.json:** Informações do projeto.
-
--![1665697829949](image/README/1665697829949.png)**README.md:** Documentação do Projeto
+<img src="image/README/md_file_icon_.png"/>**README.md:** Documentação do Projeto
 
 # Execução do projeto:
 
