@@ -34,7 +34,7 @@ O projeto de teste apresenta as seguintes tecnologias:
 
 <img src="image/README/icon_folder.png"/> **Automation-Front-end-Zitrus:** Pasta principal do projeto
 
-<img src="image/README/icon_folder.png"/> **cypress: **Pasta do framework Cypress
+<img src="image/README/icon_folder.png"/> **cypress:** Pasta do framework Cypress
 
   <img src="image/README/icon_folder.png"/> ***e2e***: Arquivos de teste
 
