@@ -72,7 +72,7 @@ O projeto de teste apresenta as seguintes tecnologias:
 
 -![1665692951598](image/README/1665692951598.png)**README.md:** Documentação do Projeto
 
-# Execuçao do projeto:
+# Execução do projeto:
 
 - `gitclone https://github.com/portifolio-qa/Automation-Back-end-Zitrus.git`
 
@@ -82,7 +82,8 @@ O projeto de teste apresenta as seguintes tecnologias:
 
 # Justificativa Utilizar Cucumber Linguagem Gherkin:
 
-    A justificativa de utilizar o Cucumber boilerplate, pois utilizar BDD com javascript, biblioteca (cypress-cucumber-preprocessor), é que ele se adapta ao processo de desing orientado por comportamento (BDD), que incentiva a comunicação e colaboração entre as pessoas de negócio, desenvolvimento e testes. Quando definimos novos requisitos e histórias, podemos utilizar a linguagem Gherkin, que utiliza exemplos concretos dessas interações do usuário e respostas a aplicação. Com isso, a justificativa para utilizar o Cucumber, é que com ele é possível automatizar as estórias do Gherkin.
+    A justificativa de utilizar o Cucumber boilerplate, pois utilizar BDD com Java script, biblioteca (cypress-cucumber-preprocessor), é que ele se adapta ao processo de design orientado por comportamento (BDD), que incentiva a comunicação e colaboração entre as pessoas de negócio, desenvolvimento e testes. Quando definimos novos requisitos e histórias, podemos utilizar a linguagem Gherkin, que utiliza exemplos concretos dessas interações do usuário e respostas a aplicação. Com isso, a justificativa para utilizar o Cucumber, é que com ele é possível automatizar as estórias do Gherkin.
+
 
 # Desafios encontrados durante o teste:
 
