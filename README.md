@@ -36,13 +36,13 @@ O projeto de teste apresenta as seguintes tecnologias:
 
     ![1665612157638](https://file+.vscode-resource.vscode-cdn.net/d%3A/D-www/Automation-Front-end-Zitrus/image/README/1665612157638.png) **cypress:** Pasta do framework Cypress
 
-   *![1665612157638](image/README/1665612157638.png) **e2e*****:** Arquivos de teste
+   *![1665612157638](image/README/1665612157638.png) **e2e***: Arquivos de teste
 
     ![1665612157638](https://file+.vscode-resource.vscode-cdn.net/d%3A/D-www/Automation-Front-end-Zitrus/image/README/1665612157638.png) **features**: funcionalidades do projeto
 
     ![1665612157638](https://file+.vscode-resource.vscode-cdn.net/d%3A/D-www/Automation-Front-end-Zitrus/image/README/1665612157638.png) **step_definitions**:
 
-   *![1665610096653](image/README/1665610096653.png) **Fixtures:***Arquivos estáticos que seram consumidos pelos teste
+    ![1665610096653](image/README/1665610096653.png) **Fixtures:** Arquivos estáticos que seram consumidos pelos teste
 
     ![1665610096653](https://file+.vscode-resource.vscode-cdn.net/d%3A/D-www/Automation-Front-end-Zitrus/image/README/1665610096653.png) **Pages:** Padrão page objects
 
@@ -83,7 +83,6 @@ O projeto de teste apresenta as seguintes tecnologias:
 # Justificativa Utilizar Cucumber Linguagem Gherkin:
 
     A justificativa de utilizar o Cucumber boilerplate, pois utilizar BDD com Java script, biblioteca (cypress-cucumber-preprocessor), é que ele se adapta ao processo de design orientado por comportamento (BDD), que incentiva a comunicação e colaboração entre as pessoas de negócio, desenvolvimento e testes. Quando definimos novos requisitos e histórias, podemos utilizar a linguagem Gherkin, que utiliza exemplos concretos dessas interações do usuário e respostas a aplicação. Com isso, a justificativa para utilizar o Cucumber, é que com ele é possível automatizar as estórias do Gherkin.
-
 
 # Desafios encontrados durante o teste:
 
