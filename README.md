@@ -42,13 +42,13 @@ O projeto de teste apresenta as seguintes tecnologias:
 
 <img src="image/README/icon_folder.png"/> **step_definitions**: Definição de passos para executar os testes
 
-<img src="image/README/icon_folder.png"/> **Fixtures:** Arquivos estáticos que seram consumidos pelos teste
+<img src="image/README/icon_folder.png"/> **fixtures:** Arquivos estáticos que seram consumidos pelos teste
 
-<img src="image/README/icon_folder.png"/>**Pages:** Padrão page objects
+<img src="image/README/icon_folder.png"/>**pages:** Padrão page objects
 
 <img src="image/README/icon_folder.png"/> **screenshots:** Evidências (prints) dos testes que falharam
 
-<img src="image/README/icon_folder.png"/> **Suport:** Pasta default do cypress para comandos e configurações
+<img src="image/README/icon_folder.png"/> **suport:** Pasta default do cypress para comandos e configurações
 
 <img src="image/README/icon_folder.png"/> **videos:** Evidências dos testes em videos dos testes
 
