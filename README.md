@@ -27,6 +27,7 @@ O projeto de teste apresenta as seguintes tecnologias:
 - Cypress.io v10: framework de testes web;
 - Cucumber: biblioteca de testes de aceitação web;
 - BDD: para testes de negócio;
+- TDD: Mocha Framewok de Testes Únitários
 - Linguagem Gherkin: Cucumber boilerplate (BDD para Java script), biblioteca cypress-cucumber-preprocessor
 - Desing Patterns: Page Objects
 
