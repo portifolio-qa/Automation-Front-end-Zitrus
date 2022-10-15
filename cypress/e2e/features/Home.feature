@@ -1,11 +1,12 @@
 
-Feature: Menus Site Header Zitrus
+Feature: Home Page Site Zitrus
 
-Home Page Header Functionality.
+Home Page Functionality.
 
 Background:
- Scenario: Validate Menu About Us  
-  Given A web browser is at the Zitrus home page
-  When I click on the About Us Menu
-  Then should I view the Zitrus History
+ Scenario: Validate from the Main Page Menus  
+  Given a web browser is on the Zitrus homepage
+  When I view the main page menus
+  Then I should see the following menus About Us, Solutions, Blog and Careers
 
+ Scenario: Validate Main Page Address 

@@ -1,19 +1,36 @@
+import { Given, When, Then } from '@badeball/cypress-cucumber-preprocessor';
+const Home = require('../../pages/Home');
 
-import {
-  Given,
-  When,
-  Then,
-} from "@badeball/cypress-cucumber-preprocessor";
-const Home = require("../../pages/Home");
+describe('Home Page Zitrus', () => {
+    context('Menus', () => {
+        Given('a web browser is on the Zitrus homepage', () => {
+            cy.visit('/');
 
-Given("A web browser is at the Zitrus home page", () => {
-    cy.visit("/")
-  });
+            When('I view the main page menus', () => {      
+  
+                Then('I should see the following menus About Us, Solutions, Blog and Careers', () => {
+          
+                });        
+            });
+        });
+    });
+    context('Address', () => {
+        Given('', () => {
+            cy.visit('/');
+            When('', () => { 
 
-  When("I click on the About Us Menu", () => {
-    
-  });
-
-  Then("should I view the Zitrus History", () => {
-
-  });
+                Then('', () => {      
+                });        
+            });
+        });
+    }); 
+    context('Plus', () => {
+        Given('', () => {
+            cy.visit('/');
+            When('', () => {
+                Then('', () => {      
+                });        
+            });
+        });
+    });
+}); 

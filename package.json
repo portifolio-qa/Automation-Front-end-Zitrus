@@ -19,5 +19,9 @@
     "cypress": "^10.10.0",
     "esbuild": "^0.15.10",
     "multiple-cucumber-html-reporter": "^3.0.1"
+  },
+  "dependencies": {
+    "eslint": "^8.25.0",
+    "eslint-plugin-cypress": "^2.12.1"
   }
 }

@@ -33,6 +33,14 @@ module.exports = defineConfig({
     specPattern: "cypress/e2e/features/*.feature",
     baseUrl: "https://zitrus.com.br/",
     chromeWebSecurity: false,
+    viewportHeight: 1080,
+    viewportWidth: 1920,
+    defaultCommandTimeout: 8000,
+    requestTimeout: 10000,
+    retries: {
+        runMode: 2,
+        openMode: 0
+    },
   },
 });
 
