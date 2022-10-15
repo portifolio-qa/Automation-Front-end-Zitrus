@@ -58,15 +58,16 @@ O projeto de teste apresenta as seguintes tecnologias:
 
 <img src="image/README/javascript_icon_.png"/> Arquivo e2e: Primeiro arquivo carregado do cypress, tudo que precisa antes rodar os testes
 
-<img src="image/README/javascript_icon_.png"/> **cypress-cucumber-preprocessorrc.json:** Biblioteca Javascript de BDD Cucumber
+<img src="image/README/javascript_icon_.png"/> **cypress-cucumber-preprocessorrc.json:** Arquivo Biblioteca Javascript de BDD Cucumber
 
 <img src="image/README/git_icon_.png"/> **gitignore:** Arquivos que serão ignorados ao realizar os commits
 
-<img src="image/README/javascript_icon_.png"/> **cucumber-html-report.js:** Gera relatório dos testes
+<img src="image/README/javascript_icon_.png"/> **cucumber-html-report.js:** Arquivo Gera relatório dos testes
 
 <img src="image/README/javascript_icon_.png"/> **cypress.config.js:** Único arquivo que não roda dentro do browser, roda no nodejs (o que o browser não consegue rodar, roda aqui). Exemplo: Conexão banco dados.
 
-<img src="image/README/javascript_icon_.png"/> **pakage.json:** Informações do projeto.
+<img src="image/README/javascript_icon_.png"/> **pakage.json:** Arquivo Informações do projeto.
+<img src="image/README/javascript_icon_.png"/> **tsconfig.json:** Arquivo Informações de compilações do projeto.
 
 <img src="image/README/md_file_icon_.png"/> **README.md:** Documentação do Projeto
 
