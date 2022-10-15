@@ -66,8 +66,9 @@ O projeto de teste apresenta as seguintes tecnologias:
 
 <img src="image/README/javascript_icon_.png"/> **cypress.config.js:** Único arquivo que não roda dentro do browser, roda no nodejs (o que o browser não consegue rodar, roda aqui). Exemplo: Conexão banco dados.
 
-<img src="image/README/javascript_icon_.png"/> **pakage.json:** Arquivo Informações do projeto.
-<img src="image/README/javascript_icon_.png"/> **tsconfig.json:** Arquivo Informações de compilações do projeto.
+<img src="image/README/javascript_icon_.png"/> **pakage.json:** Arquivo Informações do projeto
+
+<img src="image/README/javascript_icon_.png"/> **tsconfig.json:** Arquivo Informações de compilações do projeto
 
 <img src="image/README/md_file_icon_.png"/> **README.md:** Documentação do Projeto
 
