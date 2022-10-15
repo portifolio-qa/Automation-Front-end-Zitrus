@@ -60,9 +60,9 @@ O projeto de teste apresenta as seguintes tecnologias:
 
 <img src="image/README/javascript_icon_.png"/> **cypress-cucumber-preprocessorrc.json:** Arquivo Biblioteca Javascript de BDD Cucumber
 
-<img src="image/README/javascript_icon_.png"/> **.eslintrc.json:** Arquivo  de configurações de boas práticas de codifição JavaScript
+<img src="image/README/javascript_icon_.png"/> **.eslintrc.json:** Arquivo  de configurações de boas práticas de codifição JavaScript e Cypress
 
-<img src="image/README/git_icon_.png"/> **gitignore:** Arquivos que serão ignorados ao realizar os commits
+<img src="image/README/git_icon_.png"/> **.gitignore:** Arquivos que serão ignorados ao realizar os commits
 
 <img src="image/README/javascript_icon_.png"/> **cucumber-html-report.js:** Arquivo Gera relatório dos testes
 
