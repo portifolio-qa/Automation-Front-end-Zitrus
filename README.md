@@ -40,7 +40,7 @@ O projeto de teste apresenta as seguintes tecnologias:
 
    <img src="image/README/icon_folder.png"/> **features**: funcionalidades do projeto
 
-<img src="image/README/icon_folder.png"/> **step_definitions**:
+<img src="image/README/icon_folder.png"/> **step_definitions**: Definição de passos para executar os testes
 
 <img src="image/README/icon_folder.png"/> **Fixtures:** Arquivos estáticos que seram consumidos pelos teste
 
@@ -52,9 +52,9 @@ O projeto de teste apresenta as seguintes tecnologias:
 
 <img src="image/README/icon_folder.png"/> **videos:** Evidências dos testes em videos dos testes
 
-<img src="image/README/javascript_icon_.png"/> Arquivo cypress.json:
+<img src="image/README/javascript_icon_.png"/> Arquivo cypress.json: Configurações para executar o projetos browser
 
-<img src="image/README/javascript_icon_.png"/> Arquivo[commandjs](https://docs.cypress.io/api/table-of-contents "Doc Comandos Cypress"): Comandos do cypress
+<img src="image/README/javascript_icon_.png"/> Arquivo [commandjs](https://docs.cypress.io/api/table-of-contents "Doc Comandos Cypress"): Comandos do cypress
 
 <img src="image/README/javascript_icon_.png"/> Arquivo e2e: Primeiro arquivo carregado do cypress, tudo que precisa antes rodar os testes
 
