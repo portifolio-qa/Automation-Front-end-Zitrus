@@ -1,20 +1,21 @@
 # Project - Automation Front-end Zitrus
 
-    Este projeto, foi desenvolvido para o cliente: Zitrus. Neste projeto, o objetivo é checar as habilidades básicas de automação e cenários de testes.
+    Este projeto, foi desenvolvido para o cliente: Zitrus. 
+    Neste projeto, o objetivo é checar as habilidades básicas de automação e cenários de testes.
 
 # Requisitos do Projeto
 
 - [X] Casos de teste em linguagem Gherkin, framework de livre escolha, porém com a justificativa
 - [X] Testes automatizados front-end com framework de livre escolha
-- [X] Cenário 1 - Conhecer a Estória da Zitrus
-- [ ] Cenário 2 - Acessar a Página de vagas opção Analista de Qualidade de Software Sênior
+- [X] Cenário 1 - Validate from Home Page 
+- [X] Cenário 2 - Validate Main Page Address r
 - [X] Site da Zitrus: https://zitrus.com.br/
 - [X] Sugestão Cypress Framework (https://docs.cypress.io/guides/overview/why-cypress#End-to-end)
 - [X] Realizar o upload dos projetos no GitHub em um repositório público
-- [ ] Encaminhe o endereço para Zitrus
+- [X] Encaminhe o endereço para Zitrus
 - [X] Faça um README objetivo e limpo
 - [X] Informar como fazer o download do projeto, configurações e como executar os testes
-- [ ] Por favor, notificar por e-mail que os testes foram encerrados
+- [X] Por favor, notificar por e-mail que os testes foram encerrados
 - [X] Contar os desafios encontrados durante o teste
 
 # Técnicas de testes escolhidas:
