@@ -1,7 +1,7 @@
 # Project - Automation Front-end Zitrus
 
-    Este projeto, foi desenvolvido para o cliente: Zitrus. 
-    Neste projeto, o objetivo é checar as habilidades básicas de automação e cenários de testes.
+Este projeto, foi desenvolvido para o cliente: Zitrus. 
+Neste projeto, o objetivo é checar as habilidades básicas de automação e cenários de testes.
 
 # Requisitos do Projeto
 
@@ -90,3 +90,4 @@ O projeto de teste apresenta as seguintes tecnologias:
 
 * A página da Zitrus não possui o atributo data-test que é uma boa prática e as classes, possuem os nomes extensos,  com o atributo data-test, nada seria mudado nunca, diferente dos demais atributos padrões do projeto. Caso ocorra um deploy no site e os atributos selecionados mudem, será necessário, atualização dos testes.
 * A configuração do BDD, Cucumber com Gherkin no cypress, foi um pouco demorado, com a versão 10 do Cypress, aconteceu alguns erros e foi necessário criar uma nova arquitetura para o projeto para que não perdesse as boas práticas da automação.
+* Tempo para construir o PageObject e automações mais complexas.
