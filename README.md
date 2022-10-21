@@ -88,6 +88,6 @@ A justificativa de utilizar o Cucumber boilerplate, pois utilizar BDD com Java s
 
 # Desafios encontrados durante o teste:
 
-* A página da Zitrus não possui o atributo data-test que é uma boa prática e as classes, possuem os nomes extensos,  com o atributo data-test, nada seria mudado nunca, diferente dos demais atributos padrões do projeto. Caso ocorra um deploy no site e os atributos selecionados mudem, será necessário, atualização dos testes.
+* A página da Zitrus não possui o atributo data-test que é uma boa prática de testes que facilita a manutenção dos testes e as classes, possuem os nomes extensos,  com o atributo data-test, nada seria mudado nunca, diferente dos demais atributos padrões do projeto que sofrem alterações constantes. 
 * A configuração do BDD, Cucumber com Gherkin no cypress, foi um pouco demorado, com a versão 10 do Cypress, aconteceu alguns erros e foi necessário criar uma nova arquitetura para o projeto para que não perdesse as boas práticas da automação.
 * Tempo para construir o PageObject e automações mais complexas.
