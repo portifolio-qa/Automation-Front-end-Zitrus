@@ -1,4 +1,4 @@
-# Project - Automation Front-end Capybara
+# Project - Automation Front-end Cypress
  
 Neste projeto, o objetivo é checar as habilidades básicas de automação e cenários de testes.
 
