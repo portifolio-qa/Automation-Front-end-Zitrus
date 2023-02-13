@@ -1,6 +1,5 @@
-# Project - Automation Front-end Zitrus
-
-Este projeto, foi desenvolvido para o cliente: Zitrus. 
+# Project - Automation Front-end Capybara
+ 
 Neste projeto, o objetivo é checar as habilidades básicas de automação e cenários de testes.
 
 # Requisitos do Projeto
@@ -74,9 +73,6 @@ O projeto de teste apresenta as seguintes tecnologias:
 
 <img src="image/README/md_file_icon_.png"/> **README.md:** Documentação do Projeto
 
-# Execução do projeto:
-
-- `gitclone https://github.com/portifolio-qa/Automation-Back-end-Zitrus.git`
 
 # Execução Testes:
 
